@@ -1,4 +1,4 @@
-# BakkesModLauncher
+# BakkesModLauncher 1.2.1
 Launcher I created for BakkesMod for Rocket League.
 
 It will simply start up BakkesMod in the background when you launch this program. If BakkesMod is already running, it won't start it.
