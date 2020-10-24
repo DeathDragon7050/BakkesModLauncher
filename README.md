@@ -1,3 +1,5 @@
+This program is no longer necessary ever since Bakkesmod became an installer
+
 # BakkesModLauncher 1.2.1
 Launcher I created for BakkesMod for Rocket League.
 
